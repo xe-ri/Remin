@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+chromadb
+sentence-transformers
+unsloth
+transformers
+torch
+peft
+trl
+pymupdf
+python-dotenv
+python-multipart
