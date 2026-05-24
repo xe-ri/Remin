@@ -1,0 +1,32 @@
+{
+  "search_cases": [
+    {
+      "keyword": "traffic flow prediction",
+      "limit": 8
+    },
+    {
+      "keyword": "V2X communication",
+      "limit": 8
+    }
+  ],
+  "upload_files": [
+    "Vehicle-to-Everything Communication in Intelligent Connected Vehicles A Survey and Taxonomy.pdf"
+  ],
+  "chat_cases": [
+    {
+      "keyword": "traffic flow prediction",
+      "paper_indexes": [1, 2],
+      "query": "这些文献主要采用了什么方法进行交通流预测？"
+    },
+    {
+      "keyword": "traffic flow prediction",
+      "paper_indexes": [1, 2],
+      "query": "这些文献主要采用了什么方法进行交通流预测？",
+      "mode": "direct_llm"
+    },
+    {
+      "use_uploaded_sources": true,
+      "query": "请概括该论文的研究目标、主要方法和局限性。"
+    }
+  ]
+}

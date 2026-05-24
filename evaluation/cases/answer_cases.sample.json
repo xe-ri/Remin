@@ -1,0 +1,12 @@
+[
+  {
+    "search_keyword": "traffic flow prediction",
+    "selected_paper_indexes": [1, 2],
+    "query": "这些文献主要采用了什么方法进行交通流预测？"
+  },
+  {
+    "search_keyword": "V2X communication",
+    "selected_paper_indexes": [1, 2],
+    "query": "请总结这些文献在车联网与V2X通信方面的研究现状。"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "keyword": "traffic flow prediction",
+    "relevant_keywords": [
+      "traffic flow",
+      "forecast",
+      "prediction",
+      "spatio-temporal"
+    ],
+    "limit": 8,
+    "distractors": [
+      {
+        "title": "Network Traffic Flow Prediction in Cloud Data Centers",
+        "abstract": "This paper studies network traffic flow prediction for cloud data center routing. It focuses on packet-level workload forecasting, bandwidth allocation, and server-side congestion, rather than urban transportation systems.",
+        "year": 2025
+      },
+      {
+        "title": "Spatio-Temporal Prediction of Website Traffic Flow",
+        "abstract": "The study predicts website traffic flow using temporal attention models for user visits and page requests. The application scenario is online service management instead of road traffic or intelligent transportation.",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "keyword": "V2X communication",
+    "relevant_keywords": [
+      "v2x",
+      "vehicular",
+      "connected vehicle",
+      "communication"
+    ],
+    "limit": 8,
+    "distractors": [
+      {
+        "title": "Vehicle Communication Protocols in Online Game Engines",
+        "abstract": "This work discusses communication between simulated vehicles in a distributed game engine. It focuses on graphics synchronization and message passing, not intelligent connected vehicles or road-side infrastructure.",
+        "year": 2025
+      },
+      {
+        "title": "Everything-to-Everything Communication in Industrial IoT",
+        "abstract": "The paper studies general device communication in industrial IoT networks. Although it discusses communication reliability, it does not address V2X, vehicular networks, connected vehicles, or transportation scenarios.",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "keyword": "traffic signal control",
+    "relevant_keywords": [
+      "traffic signal",
+      "signal control",
+      "intersection",
+      "reinforcement learning"
+    ],
+    "limit": 8,
+    "distractors": [
+      {
+        "title": "Signal Control for Wireless Traffic Scheduling",
+        "abstract": "This paper proposes signal control policies for wireless network traffic scheduling. The work studies packets, channels, and queueing delay rather than road intersections or traffic lights.",
+        "year": 2025
+      },
+      {
+        "title": "Reinforcement Learning for Signal Control in Digital Communication",
+        "abstract": "The study applies reinforcement learning to signal control in digital communication systems. It does not discuss urban intersections, road traffic, or intelligent transportation systems.",
+        "year": 2024
+      }
+    ]
+  }
+]
